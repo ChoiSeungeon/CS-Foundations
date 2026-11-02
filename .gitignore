@@ -1,0 +1,29 @@
+# Local editors and scratch
+.idea/
+.vscode/
+.metadata/
+.DS_Store
+Thumbs.db
+work/
+tmp/
+
+# Secrets and local settings
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Build and generated files
+*.class
+target/
+build/
+.gradle/
+*.log
+
+# Local database files / dumps
+*.sqlite
+*.sqlite3
+*.db
+*.dump
+*.sql.gz
