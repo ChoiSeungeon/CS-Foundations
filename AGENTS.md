@@ -32,6 +32,7 @@ README.md → docs/learner-context.md → docs/study-policy.md → docs/curricul
 
 ## 기록과 인계
 
+- 기본 학습 브랜치는 `main`이다. 학습 기록과 환경 간 인계는 최신 `origin/main`을 기준으로 한다. 별도 브랜치는 사용자가 요청하거나 작업상 필요할 때 사용하고, 환경의 임시 브랜치를 기본 학습 브랜치로 정하지 않는다.
 - tracking/progress.md가 학습 상태의 기준이다. 초기 진단은 tracking/initial-diagnostic.md에 별도 보존한다.
 - 학습 종료 또는 학습자 요청 시 sessions/에 증거와 요약을 남기고, progress.md·review/queue.md·next-session.md를 실제 진행한 만큼만 갱신한다.
 - 완료와 복습은 docs/study-policy.md의 기준을 따른다. 복습 문항은 원래 예시를 그대로 반복하지 말고 조건을 바꾼다.
