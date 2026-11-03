@@ -8,11 +8,11 @@
 |---|---|---|---|---|---|
 | ARCH-01 | 데이터 표현과 논리 | N0 | - | - | - |
 | ARCH-02 | 실수와 문자 표현 | N0 | - | - | - |
-| ARCH-03 | 컴퓨터의 구성 | N0 | - | - | - |
-| ARCH-04 | 명령 실행 | N0 | - | - | - |
+| ARCH-03 | 컴퓨터의 구성 | N2 | [노트](../notes/ARCH-03-computer-components.md) · [세션](../sessions/2026-11-03-01.md#arch-03) | 2026-11-03 | - |
+| ARCH-04 | 명령 실행 | N1 | [노트](../notes/ARCH-04-instruction-execution.md) · [세션](../sessions/2026-11-03-01.md#연결-주제) | 2026-11-03 | - |
 | ARCH-05 | 컴파일과 실행 | N0 | - | - | - |
-| ARCH-06 | 메모리 계층과 지역성 | N0 | - | - | - |
-| ARCH-07 | CPU 캐시 | N0 | - | - | - |
+| ARCH-06 | 메모리 계층과 지역성 | N2 | [노트](../notes/ARCH-06-memory-hierarchy.md) · [세션](../sessions/2026-11-03-01.md#arch-06) | 2026-11-03 | - |
+| ARCH-07 | CPU 캐시 | N1 | [노트](../notes/ARCH-07-cpu-cache.md) · [세션](../sessions/2026-11-03-01.md#연결-주제) | 2026-11-03 | - |
 | ARCH-08 | CPU 병렬성과 성능 | N0 | - | - | - |
 | ARCH-09 | 장치와 데이터 이동 | N0 | - | - | - |
 | ARCH-10 | 성능 해석 | N0 | - | - | - |

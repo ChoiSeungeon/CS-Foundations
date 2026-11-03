@@ -1,3 +1,9 @@
 # 주제별 학습 노트
 
-학습을 시작할 때 templates/topic-note.md를 복사한다. 파일 이름은 `ARCH-03-computer-components.md`처럼 ID로 시작한다. 초기 진단에서 맞혔어도 반드시 학습한다. 현재는 실제 학습 노트가 없다.
+학습을 시작할 때 templates/topic-note.md를 복사한다. 파일 이름은 `ARCH-03-computer-components.md`처럼 ID로 시작한다. 초기 진단에서 맞혔어도 반드시 학습한다. 현재 컴퓨터구조의 실제 학습·연결 설명 노트가 있다. 상태는 tracking/progress.md에서 관리한다.
+
+## 복습 정리본
+
+주제 노트에는 실제 답변·교정·출처·남은 목표를 보존한다. summaries/의 정리본은 핵심 개념을 빠르게 찾아보는 자료이며 학습자 답변이나 진도 증거를 대체하지 않는다. 복습할 때 질문 하나에 먼저 답하고 정리본과 대조한다.
+
+- [2026-11-03 컴퓨터 구성과 메모리 계층](summaries/2026-11-03-computer-and-memory.md)
