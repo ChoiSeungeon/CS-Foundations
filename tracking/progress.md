@@ -9,7 +9,7 @@
 | ARCH-01 | 데이터 표현과 논리 | N0 | - | - | - |
 | ARCH-02 | 실수와 문자 표현 | N0 | - | - | - |
 | ARCH-03 | 컴퓨터의 구성 | N2 | [노트](../notes/ARCH-03-computer-components.md) · [세션](../sessions/2026-11-03-01.md#arch-03) | 2026-11-03 | - |
-| ARCH-04 | 명령 실행 | N1 | [노트](../notes/ARCH-04-instruction-execution.md) · [세션](../sessions/2026-11-03-01.md#연결-주제) | 2026-11-03 | - |
+| ARCH-04 | 명령 실행 | N1 | [노트](../notes/ARCH-04-instruction-execution.md) · [세션 1](../sessions/2026-11-03-01.md#연결-주제) · [세션 2](../sessions/2026-11-03-02.md#연결-주제) | 2026-11-04 | - |
 | ARCH-05 | 컴파일과 실행 | N0 | - | - | - |
 | ARCH-06 | 메모리 계층과 지역성 | N2 | [노트](../notes/ARCH-06-memory-hierarchy.md) · [세션](../sessions/2026-11-03-01.md#arch-06) | 2026-11-03 | - |
 | ARCH-07 | CPU 캐시 | N1 | [노트](../notes/ARCH-07-cpu-cache.md) · [세션](../sessions/2026-11-03-01.md#연결-주제) | 2026-11-03 | - |
@@ -17,8 +17,8 @@
 | ARCH-09 | 장치와 데이터 이동 | N0 | - | - | - |
 | ARCH-10 | 성능 해석 | N0 | - | - | - |
 | OS-01 | 운영체제와 시스템 호출 | N0 | - | - | - |
-| OS-02 | 프로그램·프로세스·스레드 | N0 | - | - | - |
-| OS-03 | 실행 상태와 문맥 교환 | N0 | - | - | - |
+| OS-02 | 프로그램·프로세스·스레드 | N2 | [노트](../notes/OS-02-programs-processes-threads.md) · [세션](../sessions/2026-11-03-02.md#os-02) | 2026-11-04 | - |
+| OS-03 | 실행 상태와 문맥 교환 | N1 | [노트](../notes/OS-03-execution-state-context-switch.md) · [세션](../sessions/2026-11-03-02.md#연결-주제) | 2026-11-04 | - |
 | OS-04 | 스케줄링 | N0 | - | - | - |
 | OS-05 | 프로세스 간 통신 | N0 | - | - | - |
 | OS-06 | 경쟁 상태와 임계 구역 | N0 | - | - | - |
